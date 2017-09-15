@@ -1,0 +1,10 @@
+.container{
+  margin:40px;
+}
+.close{
+  float:right;
+  margin:10px;
+}
+.jumbotron{
+ background-size:800px 450px;
+}
